@@ -51,8 +51,9 @@ Each file inside the folder will be named according to the iteration number at w
 
 
 ## Examples:
-![peacock_nst](https://github.com/Kamakhyamehta/Neural-Style-Transfer/assets/140178863/a9f98afe-b182-4a4b-ba5e-2a5766a6362c)
-![cheetah_nst](https://github.com/Kamakhyamehta/Neural-Style-Transfer/assets/140178863/43131dc4-979a-4b19-ad5a-789fd3737edb)
+![peacock_nst](https://github.com/Kamakhyamehta/Neural-Style-Transfer/assets/140178863/07d2fb92-ea7d-4c4b-9ea4-4cdf7c19549e)
+![cheetah_nst](https://github.com/Kamakhyamehta/Neural-Style-Transfer/assets/140178863/23711217-8627-4fc9-bda7-1ac3a9c23227)
+
 
 
 
