@@ -6,7 +6,8 @@
 This project implements Neural Style Transfer (NST) using TensorFlow and the VGG19 model. The objective is to generate an image that combines the content of a target image with the style of a reference image. The VGG19 model is used for feature extraction, and the NST algorithm iteratively updates the generated image to minimize the content, style, and total variation losses.
 
 
-![tajmahal_nst](https://github.com/Kamakhyamehta/Neural-Style-Transfer/assets/140178863/b18778d3-9738-43db-a1dc-61ab8d6446e6)
+![tajmahal_nst](https://github.com/Kamakhyamehta/Neural-Style-Transfer/assets/140178863/69a741d7-7132-4d9f-bde6-20b01bffe7ab)
+
 
 ## Installation Instructions
 ### Step 1: Clone the Repository
