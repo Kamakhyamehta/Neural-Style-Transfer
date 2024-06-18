@@ -39,7 +39,7 @@ Ensure your content and style images are placed in the appropriate directories:
 
 After choosing new images, run all the code cells to avoid any error.
 
-    •	Code: code/neural_style_transfer_aries.ipynb/
+    •	Code: neural_style_transfer_ARies.ipynb/
 The script will perform the style transfer for a specified number of iterations (default is 300) and save the intermediate results every 50 iterations.
 
 ### 3.	View results:
